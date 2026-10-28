@@ -7,7 +7,7 @@ Untuk eksperimen dan belajar. Hasil di HP sangat kecil.
 
 ```bash
 pkg install git -y
-git clone https://github.com/USERNAME/termux-miner.git
+git clone https://github.com/andi9/termux-miner.git
 cd termux-miner
 bash termux-miner.sh
 ```
